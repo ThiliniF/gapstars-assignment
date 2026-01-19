@@ -37,7 +37,7 @@ export default defineConfig({
     ignoreHTTPSErrors: true,
     video: "off",
     screenshot: "only-on-failure",
-    headless: false,
+    headless: true,
     viewport: null, // Set viewport to null
     launchOptions: {
       args: ["--start-maximized"], // Add start-maximized argument

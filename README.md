@@ -10,6 +10,10 @@ This project demonstrates automated testing of the following web application sce
 - Multiple window handling
 - Basic HTTP authentication
 
+#### Note:
+
+This project covers only happy path scenarios due to time constraints. In a real-world testing scenario, I would include comprehensive edge cases, negative scenarios, and error handling tests.
+
 ## Project Structure
 
 ```
